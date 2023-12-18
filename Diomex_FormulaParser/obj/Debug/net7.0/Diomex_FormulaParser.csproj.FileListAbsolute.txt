@@ -1,0 +1,15 @@
+/Users/jetonhaxha/Desktop/Diomex_FormulaParser/bin/Debug/net7.0/Diomex_FormulaParser
+/Users/jetonhaxha/Desktop/Diomex_FormulaParser/bin/Debug/net7.0/Diomex_FormulaParser.deps.json
+/Users/jetonhaxha/Desktop/Diomex_FormulaParser/bin/Debug/net7.0/Diomex_FormulaParser.runtimeconfig.json
+/Users/jetonhaxha/Desktop/Diomex_FormulaParser/bin/Debug/net7.0/Diomex_FormulaParser.dll
+/Users/jetonhaxha/Desktop/Diomex_FormulaParser/bin/Debug/net7.0/Diomex_FormulaParser.pdb
+/Users/jetonhaxha/Desktop/Diomex_FormulaParser/obj/Debug/net7.0/Diomex_FormulaParser.csproj.AssemblyReference.cache
+/Users/jetonhaxha/Desktop/Diomex_FormulaParser/obj/Debug/net7.0/Diomex_FormulaParser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jetonhaxha/Desktop/Diomex_FormulaParser/obj/Debug/net7.0/Diomex_FormulaParser.AssemblyInfoInputs.cache
+/Users/jetonhaxha/Desktop/Diomex_FormulaParser/obj/Debug/net7.0/Diomex_FormulaParser.AssemblyInfo.cs
+/Users/jetonhaxha/Desktop/Diomex_FormulaParser/obj/Debug/net7.0/Diomex_FormulaParser.csproj.CoreCompileInputs.cache
+/Users/jetonhaxha/Desktop/Diomex_FormulaParser/obj/Debug/net7.0/Diomex_FormulaParser.dll
+/Users/jetonhaxha/Desktop/Diomex_FormulaParser/obj/Debug/net7.0/refint/Diomex_FormulaParser.dll
+/Users/jetonhaxha/Desktop/Diomex_FormulaParser/obj/Debug/net7.0/Diomex_FormulaParser.pdb
+/Users/jetonhaxha/Desktop/Diomex_FormulaParser/obj/Debug/net7.0/Diomex_FormulaParser.genruntimeconfig.cache
+/Users/jetonhaxha/Desktop/Diomex_FormulaParser/obj/Debug/net7.0/ref/Diomex_FormulaParser.dll
